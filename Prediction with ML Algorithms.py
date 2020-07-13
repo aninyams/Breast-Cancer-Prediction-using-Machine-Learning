@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thursday May  2 12:18:59 2019
-
-@author: aninyms
 """
 #This project is on applying different machine learning algorithms to a breast cancer dataset to
 #identify which model yeilds the highest prediction accuracy 
